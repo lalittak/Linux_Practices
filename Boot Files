@@ -2,4 +2,6 @@
 
 /boot/grub/grub.conf file is used for all booting related configuration.
 
+Kernel files are there inside.
+
 -Lalit Tak
